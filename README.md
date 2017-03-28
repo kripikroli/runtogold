@@ -1,2 +1,2 @@
 # RunToGold Website
-Repo for: www.runtogold.com
+Repository for: www.runtogold.com
