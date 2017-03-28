@@ -1,2 +1,2 @@
-# runtogold
+# RunToGold
 Repo for: www.runtogold.com
