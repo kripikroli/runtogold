@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Arcana by HTML5 UP</title>
+		<title>RunToGold</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -37,29 +37,35 @@
 							{% assign current = page.url | downcase | split: '/' %}
 							<li {% if current[1] == 'index.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/index.html">Home</a></li>
 							<li>
-								<a href="">Dropdown</a>
+								<a href="">About</a>
 								<ul>
-									<li><a href="#">Lorem dolor</a></li>
-									<li><a href="#">Magna phasellus</a></li>
-									<li><a href="#">Etiam sed tempus</a></li>
-									<li>
-										<a href="">Submenu</a>
-										<ul>
-											<li><a href="#">Lorem dolor</a></li>
-											<li><a href="#">Phasellus magna</a></li>
-											<li><a href="#">Magna phasellus</a></li>
-											<li><a href="#">Etiam nisl</a></li>
-											<li><a href="#">Veroeros feugiat</a></li>
-										</ul>
-									</li>
-									<li><a href="#">Veroeros feugiat</a></li>
+									<li><a href="#">Contact</a></li>
+									<li><a href="#">Media</a></li>
 								</ul>
 							</li>
-							<li {% if current[1] == 'blog' %}class="current"{% endif %}><a href="{{ site.baseurl }}/blog">Blog</a></li>
-							<li {% if current[1] == 'left-sidebar.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/left-sidebar.html">Left Sidebar</a></li>
-							<li {% if current[1] == 'right-sidebar.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/right-sidebar.html">Right Sidebar</a></li>
-							<li {% if current[1] == 'two-sidebar.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/two-sidebar.html">Two Sidebar</a></li>
-							<li {% if current[1] == 'no-sidebar.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/no-sidebar.html">No Sidebar</a></li>
+							<li>Archives</li>
+							<li>Products</li>
+							<li>
+								<a href="">Metal Prices</a>
+								<ul>
+									<li><a href="#">Gold Price</a></li>
+									<li><a href="#">Silver Price</a></li>
+									<li><a href="#">Platinum Price</a></li>
+									<li><a href="#">Palladium Price</a></li>
+								</ul>
+							</li>
+							<li>Bitcoin Price</li>
+							<li>Key Ratio</li>
+							<li>GoldMoney</li>
+							<li>
+								<a href="">Buy</a>
+								<ul>
+									<li><a href="#">Gold</a></li>
+									<li><a href="#">Silver</a></li>
+									<li><a href="#">Platinum</a></li>
+									<li><a href="#">Palladium</a></li>
+								</ul>
+							</li>
 						</ul>
 					</nav>
 
