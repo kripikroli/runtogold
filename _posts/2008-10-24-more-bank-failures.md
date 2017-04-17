@@ -1,0 +1,11 @@
+---
+layout: post
+title: More Bank Failures
+published: true
+---
+<p> </p>
+<p><span><img class="aligncenter" title="FDIC" src="{{ site.baseurl }}/images/fin_75.gif" alt="" width="635" height="87" />Back in January I wrote about the <a href="http://www.runtogold.com/2008/01/fdic-prepares-for-massive-bank-failures/">FDIC</a> gearing up to handle massive bank failures.  On October 24, 2008 the Alpha Bank &amp; Trust failed.  This is the 16th US bank to fail this year.  The increased guarantee limit from $100,000 to $250,000 of irredeemable bytes but has probably placated some depositors.</span></p>
+<p><span>Another bank ‘failed’ today but did not make the FDIC list.  National City had about $4.5B in deposits and was purchased by PNC.  PNC now has about $180B in deposits and is the 5th largest bank in the United States.</span></p>
+<p><span>This surreptitious manner of having failing banks like Wachovia and National City being bought out by other failing banks is extremely good for minimizing the public’s perception.  More importantly for the remaining banks the power is greatly consolidated.  This is a bad idea because it engenders even greater degrees of moral hazard stemming from the false idea that the institutions are ‘too big to fail.’</span></p>
+<p><span>But what expectations could one possibly have because <a href="http://www.runtogold.com/2008/10/all-bankers-are-liars-and-frauds/">all bankers are liars and frauds</a>.  So far the public has been largely insulated from the effects of this financial crisis.  Sometimes I wonder if the first time they will really feel its effects is when the supermarket shelves start going empty on a regular basis.</span></p>
+<p><span>Now would be a good time to evaluate the status of your bank accounts.  You may decide it is better to stuff the cash under the mattress.  Why bear counter-party risk with the bank in exchange for such an extremely low interest rate?  The Fed may even be preparing to slash interest rates again.  T-Bills are already in negative real return territory.  By taking physical possession of the irredeemable paper currency your safety and liquidity is increased.  It also starves the bank which is on life support of critical capital.</span></p>
