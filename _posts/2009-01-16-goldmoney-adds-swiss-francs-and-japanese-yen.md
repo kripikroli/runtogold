@@ -1,0 +1,10 @@
+---
+layout: post
+title: GoldMoney Adds Swiss Francs and Japanese Yen
+published: true
+---
+<p>On January 14, 2009 <a href="http://www.runtogold.com/goldmoney">GoldMoney</a> introduced the first enhancement, of many, for the year with two additional national currencies, the Swiss francs (CHF) and Japanese yen (JPY), that can be held in Customer Segregated Funds accounts within a <a href="http://www.runtogold.com/goldmoney">GoldMoney</a> Holding.</p>
+<p>It is now possible to (1) wire CHF or JPY into and out of your Holding, (2) Buy and sell gold or silver using CHF or JPY and (3) exchange national currencies with CHF, JPY, USD, GBP, EUR or CAD for a 0.49% exchange fee.</p>
+<p><a href="http://www.runtogold.com/goldmoney"><img class="alignright" title="GoldMoney banner" src="{{ site.baseurl }}/images/gmy19.gif" alt="" width="300" height="115" /></a>Given the strength of the Japanese yen and the unwinding of the carry-trade this additional option for holding national currency balances yields more value and the ability for greater profit from a <a href="http://www.runtogold.com/goldmoney">GoldMoney</a> holding.  <a href="http://www.runtogold.com/goldmoney">GoldMoney</a> holdings are <strong>free</strong> to open, require no minimum balance and the fees are extremely competitive.</p>
+<p>Any gold or silver bullion purchased and stored is insured, held in secure allocated storage with an LBMA member in safe jurisdictions, is completely unencumbered, audited by a reputable accounting firm and the entire system is extremely transparent.</p>
+<p>Many of the sources for performing <a href="http://www.runtogold.com/goldmoney">due diligence on GoldMoney</a> have been consolidated so you can determine whether a free <a href="http://www.runtogold.com/goldmoney">GoldMoney</a> holding fits within your asset and estate plan.  For the extremely low cost I think <a href="http://www.runtogold.com/goldmoney">GoldMoney</a> is a great value and should probably be considered in every asset and estate plan.</p>
