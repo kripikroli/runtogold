@@ -1,58 +1,7 @@
 ---
 layout: post
 title: Chinese Stimulus Plan
-date: 2008-11-09 23:47:52.000000000 +08:00
-type: post
 published: true
-status: publish
-categories:
-- Govt Bailouts
-- Value Calculation
-tags:
-- Chinese stimulus plan
-- pricing
-- Value Calculation
-meta:
-  _edit_last: '1'
-  views: '3533'
-  arkayne-cache-post: "\n\n <script type=\"text/javascript\" defer=\"defer\"> BlogGlue
-    = window.BlogGlue || window.Arkayne || {}; BlogGlue.baseurl = 'http://www.blogglue.com';
-    BlogGlue.go = function(e, a, cid, gid) { var id = a.getAttribute('id'); var orig
-    = a.getAttribute('href'); var target = a.getAttribute('target'); var redir = [BlogGlue.baseurl,
-    'link', cid, gid, ''].join('/'); redir += '?ts=' + Math.random(); redir += '&amp;url='
-    + escape(a.href); a.setAttribute('href', redir); setTimeout('BlogGlue.restore(\"'
-    + id + '\", \"' + orig + '\")', 0); return true; }; BlogGlue.restore = function(id,
-    orig) { var a = document.getElementById(id); if (a) a.setAttribute('href', orig);
-    }; </script> <div class=\"blogglue_plugin\" style=\"display:block;margin:5px 0px
-    20px 0px;\"> <h3 class=\"blogglue-header blogglue-inner\"> More From RunToGold
-    </h3> <ul class=\"blogglue-links blogglue-inner\"> <li id=\"blogglue-inner-1\"><a
-    href=\"http://www.runtogold.com/2008/01/banks-have-negative-reserve-ratios/?utm_source=BlogGlue_network&amp;utm_medium=BlogGlue_Plugin\"
-    id=\"blogglue-2544872\" target=\"_parent\" onclick=\"return BlogGlue.go(event,
-    this, 2552998, 2544872);\" title=\"Banks Have NEGATIVE Reserve Ratios\">Banks
-    Have NEGATIVE Reserve Ratios</a></li> <li id=\"blogglue-inner-2\"><a href=\"http://www.runtogold.com/2008/10/more-bank-failures/?utm_source=BlogGlue_network&amp;utm_medium=BlogGlue_Plugin\"
-    id=\"blogglue-2552263\" target=\"_parent\" onclick=\"return BlogGlue.go(event,
-    this, 2552998, 2552263);\" title=\"More Bank Failures\">More Bank Failures</a></li>
-    <li id=\"blogglue-inner-3\"><a href=\"http://www.runtogold.com/2008/12/civil-unrest-in-china-and-empty-ships/?utm_source=BlogGlue_network&amp;utm_medium=BlogGlue_Plugin\"
-    id=\"blogglue-2545250\" target=\"_parent\" onclick=\"return BlogGlue.go(event,
-    this, 2552998, 2545250);\" title=\"Civil Unrest in China and Empty Ships\">Civil
-    Unrest in China and Empty Ships</a></li> </ul> <div class=\"blogglue-footer\"
-    style=\"margin:10px 0px;display:block !important\"> <a href=\"http://www.blogglue.com/10539-410963df1675ff75b76118a8f653b486/?utm_source=BlogGlue%20Plugin&amp;utm_medium=Recommend&amp;utm_campaign=Plugin&amp;coupon=TRACEMAYER&amp;blogglue_page=2552998\"
-    target=\"_blank\" style=\"text-decoration:none !important;\"> <img src=\"http://www.gravatar.com/avatar.php?default=%2F%2Fs3.amazonaws.com%2Farkayne-media%2Fimg%2Fprofile%2Fdefault_sm.png&amp;size=24&amp;gravatar_id=7db1f7f9cf505073acc22665af146509\"
-    width=\"24\" height=\"24\" border=\"0\" alt=\"Blog Margeting Related Posts Plugin
-    For RunToGold\" style=\"display:inline;margin: 0 5px 0 10px; border:1px solid
-    #AAA; width: 24px !important; height: 24px; !important;\"/><span style=\"position:relative;top:-8px;font-family:'Trebuchet
-    MS'; font-size: 0.8em;\">Ask <strong>RunToGold</strong> To Recommend Your Posts</span>
-    </a> <img class=\"blogglue-hit\" style=\"border:none;left:-9999px;position:absolute;\"
-    src=\"http://www.blogglue.com/widget/hit/2552998.GIF\" border=\"0\" alt=\"Blog
-    Marketing Related Posts Plugin Counter\" /> </div> </div> \n"
-  arkayne-time-post: '1347272570'
-  bitcointips_address: 1viqcyJYE3HoHGWNGqEmfXbvGM92L8YvR
-author:
-  login: tracemayer
-  email: trace@runtogold.com
-  display_name: Trace Mayer
-  first_name: Trace
-  last_name: Mayer
 ---
 <p><span>China has unveiled a <strong>$586B</strong> stimulus plan.  This is about $488 per person which represents about 10% of annual GDP per capita.  The <a href="http://biz.yahoo.com/ap/081109/as_china_stimulus_package.html" target="_blank">Associated Press</a> reports “Money will also be poured into new railways, roads and airports. Spending on health and education will be increased, as well as on environmental protection and technology. ... The statement said rural and urban incomes would be increased.”</span></p>
 <p><span>Governmental interference into the currency market is extremely detrimental to the efficient functioning of the free market.  Only free markets and their legacy have solved the starvation issue.  Now there are no free markets but only interventions.  As I discussed on the <a href="http://www.runtogold.com/2008/06/ker-june-16-2008/">Korelin Economics Report</a> the United States of America has been a centrally planned economy for almost 100 years.</span></p>
