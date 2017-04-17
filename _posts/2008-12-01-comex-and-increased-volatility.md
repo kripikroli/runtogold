@@ -1,57 +1,7 @@
 ---
 layout: post
 title: COMEX and Increased Volatility
-date: 2008-12-01 12:04:04.000000000 +08:00
-type: post
 published: true
-status: publish
-categories: []
-tags:
-- central bank
-- COMEX
-- GATA
-- gold suppression scheme
-meta:
-  _edit_last: '1'
-  views: '5386'
-  arkayne-cache-post: "\n\n <script type=\"text/javascript\" defer=\"defer\"> BlogGlue
-    = window.BlogGlue || window.Arkayne || {}; BlogGlue.baseurl = 'http://www.blogglue.com';
-    BlogGlue.go = function(e, a, cid, gid) { var id = a.getAttribute('id'); var orig
-    = a.getAttribute('href'); var target = a.getAttribute('target'); var redir = [BlogGlue.baseurl,
-    'link', cid, gid, ''].join('/'); redir += '?ts=' + Math.random(); redir += '&amp;url='
-    + escape(a.href); a.setAttribute('href', redir); setTimeout('BlogGlue.restore(\"'
-    + id + '\", \"' + orig + '\")', 0); return true; }; BlogGlue.restore = function(id,
-    orig) { var a = document.getElementById(id); if (a) a.setAttribute('href', orig);
-    }; </script> <div class=\"blogglue_plugin\" style=\"display:block;margin:5px 0px
-    20px 0px;\"> <h3 class=\"blogglue-header blogglue-inner\"> More From RunToGold
-    </h3> <ul class=\"blogglue-links blogglue-inner\"> <li id=\"blogglue-inner-1\"><a
-    href=\"http://www.runtogold.com/2008/11/quantitative-easing-and-gold/?utm_source=BlogGlue_network&amp;utm_medium=BlogGlue_Plugin\"
-    id=\"blogglue-2548808\" target=\"_parent\" onclick=\"return BlogGlue.go(event,
-    this, 2549079, 2548808);\" title=\"Quantitative Easing and Gold\">Quantitative
-    Easing and Gold</a></li> <li id=\"blogglue-inner-2\"><a href=\"http://www.runtogold.com/2008/10/all-bankers-are-liars-and-frauds/?utm_source=BlogGlue_network&amp;utm_medium=BlogGlue_Plugin\"
-    id=\"blogglue-2547386\" target=\"_parent\" onclick=\"return BlogGlue.go(event,
-    this, 2549079, 2547386);\" title=\"All Bankers Are Liars And Frauds\">All Bankers
-    Are Liars And Frauds</a></li> <li id=\"blogglue-inner-3\"><a href=\"http://www.runtogold.com/2010/05/fake-volume-and-increased-volatility/?utm_source=BlogGlue_network&amp;utm_medium=BlogGlue_Plugin\"
-    id=\"blogglue-2551638\" target=\"_parent\" onclick=\"return BlogGlue.go(event,
-    this, 2549079, 2551638);\" title=\"Fake Volume And Increased Volatility\">Fake
-    Volume And Increased Volatility</a></li> </ul> <div class=\"blogglue-footer\"
-    style=\"margin:10px 0px;display:block !important\"> <a href=\"http://www.blogglue.com/10539-410963df1675ff75b76118a8f653b486/?utm_source=BlogGlue%20Plugin&amp;utm_medium=Recommend&amp;utm_campaign=Plugin&amp;coupon=TRACEMAYER&amp;blogglue_page=2549079\"
-    target=\"_blank\" style=\"text-decoration:none !important;\"> <img src=\"http://www.gravatar.com/avatar.php?default=%2F%2Fs3.amazonaws.com%2Farkayne-media%2Fimg%2Fprofile%2Fdefault_sm.png&amp;size=24&amp;gravatar_id=7db1f7f9cf505073acc22665af146509\"
-    width=\"24\" height=\"24\" border=\"0\" alt=\"Blog Margeting Related Posts Plugin
-    For RunToGold\" style=\"display:inline;margin: 0 5px 0 10px; border:1px solid
-    #AAA; width: 24px !important; height: 24px; !important;\"/><span style=\"position:relative;top:-8px;font-family:'Trebuchet
-    MS'; font-size: 0.8em;\">Ask <strong>RunToGold</strong> To Recommend Your Posts</span>
-    </a> <img class=\"blogglue-hit\" style=\"border:none;left:-9999px;position:absolute;\"
-    src=\"http://www.blogglue.com/widget/hit/2549079.GIF\" border=\"0\" alt=\"Blog
-    Marketing Related Posts Plugin Counter\" /> </div> </div> \n"
-  arkayne-time-post: '1347316391'
-  bitcointips_address: 1Aiwk7y9QqT1FKDtL4BKo5QY7KyYNdNdiz
-author:
-  login: tracemayer
-  email: trace@runtogold.com
-  display_name: Trace Mayer
-  first_name: Trace
-  last_name: Mayer
 ---
 <p><img class="alignright" title="Comex OI" src="{{ site.baseurl }}/images/ComexOI.png" alt="" width="429" height="227" />The COMEX Open Interest has been drying up.  As noted in a <a href="http://www.runtogold.com/2008/11/comex-december-delivery-nov-28-update/">COMEX update</a> the October contract delivery was 11,554 contracts.  December 1 is the second day for December delivery demand notifications with 11,166 contracts demanded.  As calculated by <a href="http://meltdown2011.wordpress.com/2008/12/04/vaporize-comex-2008-12-04/" target="_blank">Meltdown2011</a> this represents about 40% of the warehouse inventory.</p>
 <p>The Open Interest reached a peak near January when the credit crisis was first evidenced to the mainstream via failures in the Auction Rate Securities market.  That peak was about 600,000 contracts in gold.  Since then the Open Interest has fallen to about 276,000 contracts.  This decline in open interest leaves buyers with lots of 'dry powder' to make purchases.  But it may represent other workings.</p>
