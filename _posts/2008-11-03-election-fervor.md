@@ -1,56 +1,7 @@
 ---
 layout: post
 title: Election Fervor
-date: 2008-11-03 15:18:25.000000000 +08:00
-type: post
 published: true
-status: publish
-categories:
-- Politics
-tags:
-- barack obama
-- Politics
-meta:
-  _edit_last: '1'
-  views: '2127'
-  arkayne-cache-post: "\n\n <script type=\"text/javascript\" defer=\"defer\"> BlogGlue
-    = window.BlogGlue || window.Arkayne || {}; BlogGlue.baseurl = 'http://www.blogglue.com';
-    BlogGlue.go = function(e, a, cid, gid) { var id = a.getAttribute('id'); var orig
-    = a.getAttribute('href'); var target = a.getAttribute('target'); var redir = [BlogGlue.baseurl,
-    'link', cid, gid, ''].join('/'); redir += '?ts=' + Math.random(); redir += '&amp;url='
-    + escape(a.href); a.setAttribute('href', redir); setTimeout('BlogGlue.restore(\"'
-    + id + '\", \"' + orig + '\")', 0); return true; }; BlogGlue.restore = function(id,
-    orig) { var a = document.getElementById(id); if (a) a.setAttribute('href', orig);
-    }; </script> <div class=\"blogglue_plugin\" style=\"display:block;margin:5px 0px
-    20px 0px;\"> <h3 class=\"blogglue-header blogglue-inner\"> More From RunToGold
-    </h3> <ul class=\"blogglue-links blogglue-inner\"> <li id=\"blogglue-inner-1\"><a
-    href=\"http://www.runtogold.com/2008/02/the-bank-run-continues/?utm_source=BlogGlue_network&amp;utm_medium=BlogGlue_Plugin\"
-    id=\"blogglue-2544555\" target=\"_parent\" onclick=\"return BlogGlue.go(event,
-    this, 2554044, 2544555);\" title=\"The Bank Run Continues\">The Bank Run Continues</a></li>
-    <li id=\"blogglue-inner-2\"><a href=\"http://www.runtogold.com/2008/10/glenn-beck-discusses-hyperinflation/?utm_source=BlogGlue_network&amp;utm_medium=BlogGlue_Plugin\"
-    id=\"blogglue-2544699\" target=\"_parent\" onclick=\"return BlogGlue.go(event,
-    this, 2554044, 2544699);\" title=\"Glenn Beck Discusses Hyperinflation\">Glenn
-    Beck Discusses Hyperinflation</a></li> <li id=\"blogglue-inner-3\"><a href=\"http://www.runtogold.com/2008/10/more-bank-failures/?utm_source=BlogGlue_network&amp;utm_medium=BlogGlue_Plugin\"
-    id=\"blogglue-2552263\" target=\"_parent\" onclick=\"return BlogGlue.go(event,
-    this, 2554044, 2552263);\" title=\"More Bank Failures\">More Bank Failures</a></li>
-    </ul> <div class=\"blogglue-footer\" style=\"margin:10px 0px;display:block !important\">
-    <a href=\"http://www.blogglue.com/10539-410963df1675ff75b76118a8f653b486/?utm_source=BlogGlue%20Plugin&amp;utm_medium=Recommend&amp;utm_campaign=Plugin&amp;coupon=TRACEMAYER&amp;blogglue_page=2554044\"
-    target=\"_blank\" style=\"text-decoration:none !important;\"> <img src=\"http://www.gravatar.com/avatar.php?default=%2F%2Fs3.amazonaws.com%2Farkayne-media%2Fimg%2Fprofile%2Fdefault_sm.png&amp;size=24&amp;gravatar_id=7db1f7f9cf505073acc22665af146509\"
-    width=\"24\" height=\"24\" border=\"0\" alt=\"Blog Margeting Related Posts Plugin
-    For RunToGold\" style=\"display:inline;margin: 0 5px 0 10px; border:1px solid
-    #AAA; width: 24px !important; height: 24px; !important;\"/><span style=\"position:relative;top:-8px;font-family:'Trebuchet
-    MS'; font-size: 0.8em;\">Ask <strong>RunToGold</strong> To Recommend Your Posts</span>
-    </a> <img class=\"blogglue-hit\" style=\"border:none;left:-9999px;position:absolute;\"
-    src=\"http://www.blogglue.com/widget/hit/2554044.GIF\" border=\"0\" alt=\"Blog
-    Marketing Related Posts Plugin Counter\" /> </div> </div> \n"
-  arkayne-time-post: '1347145674'
-  bitcointips_address: 1MoRdThjDqKui73kzJ8knQX5NjNRjD1vm
-author:
-  login: tracemayer
-  email: trace@runtogold.com
-  display_name: Trace Mayer
-  first_name: Trace
-  last_name: Mayer
 ---
 <p> </p>
 <p><span><img class="aligncenter" title="Barack Obama Intrade Chart" src="{{ site.baseurl }}/images/chart1225380963156137318.png" alt="" width="780" height="311" />Not that it matters but you Americans be sure to vote tomorrow.  If elections made a difference then they would be illegal.  After all, they are merely advanced auctions on stolen goods used to perpetuate war which is the health of the State.  So, vote your conscience.</span></p>
