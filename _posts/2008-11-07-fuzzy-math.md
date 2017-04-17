@@ -1,57 +1,7 @@
 ---
 layout: post
 title: Fuzzy Math
-date: 2008-11-07 01:35:35.000000000 +08:00
-type: post
 published: true
-status: publish
-categories:
-- Derivatives
-tags:
-- Counter Party Risk
-- Derivatives
-meta:
-  _edit_last: '1'
-  views: '2131'
-  naff_exclude: 'false'
-  arkayne-cache-post: "\n\n <script type=\"text/javascript\" defer=\"defer\"> BlogGlue
-    = window.BlogGlue || window.Arkayne || {}; BlogGlue.baseurl = 'http://www.blogglue.com';
-    BlogGlue.go = function(e, a, cid, gid) { var id = a.getAttribute('id'); var orig
-    = a.getAttribute('href'); var target = a.getAttribute('target'); var redir = [BlogGlue.baseurl,
-    'link', cid, gid, ''].join('/'); redir += '?ts=' + Math.random(); redir += '&amp;url='
-    + escape(a.href); a.setAttribute('href', redir); setTimeout('BlogGlue.restore(\"'
-    + id + '\", \"' + orig + '\")', 0); return true; }; BlogGlue.restore = function(id,
-    orig) { var a = document.getElementById(id); if (a) a.setAttribute('href', orig);
-    }; </script> <div class=\"blogglue_plugin\" style=\"display:block;margin:5px 0px
-    20px 0px;\"> <h3 class=\"blogglue-header blogglue-inner\"> More From RunToGold
-    </h3> <ul class=\"blogglue-links blogglue-inner\"> <li id=\"blogglue-inner-1\"><a
-    href=\"http://www.runtogold.com/2008/10/all-bankers-are-liars-and-frauds/?utm_source=BlogGlue_network&amp;utm_medium=BlogGlue_Plugin\"
-    id=\"blogglue-2547386\" target=\"_parent\" onclick=\"return BlogGlue.go(event,
-    this, 2553003, 2547386);\" title=\"All Bankers Are Liars And Frauds\">All Bankers
-    Are Liars And Frauds</a></li> <li id=\"blogglue-inner-2\"><a href=\"http://www.runtogold.com/2009/01/bank-of-england-and-quantitative-easing/?utm_source=BlogGlue_network&amp;utm_medium=BlogGlue_Plugin\"
-    id=\"blogglue-2545268\" target=\"_parent\" onclick=\"return BlogGlue.go(event,
-    this, 2553003, 2545268);\" title=\"Bank of England and Quantitative Easing\">Bank
-    of England and Quantitative Easing</a></li> <li id=\"blogglue-inner-3\"><a href=\"http://www.runtogold.com/2008/08/value-calculation/?utm_source=BlogGlue_network&amp;utm_medium=BlogGlue_Plugin\"
-    id=\"blogglue-2546467\" target=\"_parent\" onclick=\"return BlogGlue.go(event,
-    this, 2553003, 2546467);\" title=\"Value Calculation\">Value Calculation</a></li>
-    </ul> <div class=\"blogglue-footer\" style=\"margin:10px 0px;display:block !important\">
-    <a href=\"http://www.blogglue.com/10539-410963df1675ff75b76118a8f653b486/?utm_source=BlogGlue%20Plugin&amp;utm_medium=Recommend&amp;utm_campaign=Plugin&amp;coupon=TRACEMAYER&amp;blogglue_page=2553003\"
-    target=\"_blank\" style=\"text-decoration:none !important;\"> <img src=\"http://www.gravatar.com/avatar.php?default=%2F%2Fs3.amazonaws.com%2Farkayne-media%2Fimg%2Fprofile%2Fdefault_sm.png&amp;size=24&amp;gravatar_id=7db1f7f9cf505073acc22665af146509\"
-    width=\"24\" height=\"24\" border=\"0\" alt=\"Blog Margeting Related Posts Plugin
-    For RunToGold\" style=\"display:inline;margin: 0 5px 0 10px; border:1px solid
-    #AAA; width: 24px !important; height: 24px; !important;\"/><span style=\"position:relative;top:-8px;font-family:'Trebuchet
-    MS'; font-size: 0.8em;\">Ask <strong>RunToGold</strong> To Recommend Your Posts</span>
-    </a> <img class=\"blogglue-hit\" style=\"border:none;left:-9999px;position:absolute;\"
-    src=\"http://www.blogglue.com/widget/hit/2553003.GIF\" border=\"0\" alt=\"Blog
-    Marketing Related Posts Plugin Counter\" /> </div> </div> \n"
-  arkayne-time-post: '1347316506'
-  bitcointips_address: 19h2Py9SkxsBhNZUmsUQHFvJrLDwCnDhKe
-author:
-  login: tracemayer
-  email: trace@runtogold.com
-  display_name: Trace Mayer
-  first_name: Trace
-  last_name: Mayer
 ---
 <p> </p>
 <p>[caption id="" align="aligncenter" width="464" caption="2+2=(3)/0"]<img title="Fuzzy Math" src="{{ site.baseurl }}/images/364743164_5d98ccb191.jpg" alt="2+2=(3)/0" width="464" height="500" />[/caption]</p>
