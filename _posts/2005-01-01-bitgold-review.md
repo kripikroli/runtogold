@@ -1,0 +1,29 @@
+---
+layout: post
+title: Bitgold Review
+published: true
+---
+<p><b>[<em>NOTE</em>: Bitgold has a <span style="color: red;">very lucrative affiliate program</span> and many of the popular thought leaders are Bitgold affiliates. This article contains no affiliate links to Bitgold.]</b></p>
+<p>Bitgold is a new platform offering gold payments to customers from everywhere except the United States.</p>
+<p>According to an <a href="http://video.cnbc.com/gallery/?video=3000364663">interview with CNBC</a> they have over 104,000 active customers who store 300 kilograms of gold bullion worth about $10.5 million which averages to about $100 per active user.</p>
+<p>BullionVault and GoldMoney are major  which average about $35,000 and $62,000 per customer respectively.</p>
+<p>Bitreserve brought a lawsuit against Bitgold in the New York Southern District Court case number <a href="https://dockets.justia.com/docket/new-york/nysdce/1:2015cv01593/439200">1:2015cv01593</a> on March 4, 2015.</p>
+<p>GoldMoney's operating subsidiaries and intellectual property was purchased by Bitgold Inc. in a transaction valued at CAD$51.9m on May 22, 2015.</p>
+<h2>Is your money safe with Bitgold?</h2>
+<p>Bitgold is nascent, untested and appears to be in a regulatory grey area. The company disclaims being subject to a regulator that would have jurisdiction to oversee trade practices like as ensuring that customer funds are kept safe and segregated. The CEO knows the system has been used to settle bets.</p>
+<p>On <a href="https://www.weusecoins.com/bitgold-filing.pdf">page 20 of Bitgold's initial public filing</a> they state:</p>
+<p style="padding-left: 30px;">neither company is eligible to be registered with the Financial Transactions and Reports Analysis Centre of Canada ... There can be no assurance that BitGold’s services or Internet platform will be acceptable to foreign regulatory bodies. Foreign governments may seek to restrict access to BitGold’s services, block BitGold’s website, or impose other restrictions that may affect BitGold’s ability to offer service to new or existing users in those for an extended period of time or indefinitely.</p>
+<p>Therefore, uncertainty risk from a new service provider is present. There are trusted providers like BullionVault available. Nevertheless, the merger between GoldMoney and <a href="https://www.bitcoinmining.com/bitgold-goldmoney-review/" target="_blank">Bitgold</a> should be taken into account.</p>
+<h2>Bitgold CEO endorses use with gambling</h2>
+<p>From an interview with the <a href="http://business.financialpost.com/investing/bitgold-begins-trading-on-tsx-venture-exchange-as-gold-transaction-platform-builds-momentum">Financial Post</a>:</p>
+<p style="padding-left: 30px;">Based on the rapid take-up of the platform in the first few days, he said it appears to be far more than a niche product for a small group of users. He noted that hardcore gold bugs make up less than 10 per cent of the user base so far.</p>
+<p style="padding-left: 30px;">“I’m seeing friends who signed up sending payments to each other,” Sebag said. “I know they bet on football, and now they’re paying each other.</p>
+<h2>Is Bitgold a scam?</h2>
+<p>There is no evidence of any nefarious or malicious actions being taken by Bitgold. However, a few days after the IPO Dominic Frisby <a href="http://moneyweek.com/dont-touch-this-gold-and-bitcoin-combo-with-a-ten-foot-bargepole/">wrote</a> on May 19, 2015:</p>
+<p style="padding-left: 30px;">Today we consider BitGold. We don’t ask whether you should run away – but how fast. ...</p>
+<p style="padding-left: 30px;">As someone who’s seen what Vancouver is capable of, this has set all my alarm bells off. There’s been a lot of hype and now somebody is selling. There’s an expression for that. ...</p>
+<p style="padding-left: 30px;">Given all this, my view is that BitGold’s founders, Roy Sebag and Josh Crumb, don’t properly understand gold. ...</p>
+<p style="padding-left: 30px;">If BitGold’s founders knew their bitcoin history, they would not have named the company thus. It is yet another factor that makes me worry that this is little more than a gimmick. ...</p>
+<p style="padding-left: 30px;">In short, there is a huge amount of success already priced in here, based on little more than a superficially persuasive idea. As soon as the hype dies out, a lot of money is going to get made shorting this one – and a lot of money lost by those who were taken in.</p>
+<p>Potential customers should keep in mind that this is a new and unproven service provider with significant legal questions that do not appear to be definitively answered with a CEO who actively endorses its use for highly regulated activities like online gambling.</p>
+<p>This alternative payments space has been ripe with problems. For example, there was e-Gold which resulted in the <a href="http://www.psmag.com/business-economics/digital-currencies-led-biggest-money-laundering-case-ever-bitcoin-74083">largest digital currency money laundering case of all time</a> and MtGox where <a href="https://bitcoinmagazine.com/20030/kraken-accepting-mtgox-bankruptcy-claims-and-giving-free-trade-credit/">customers lost approximately $500m of funds</a>. So you should be careful with your money.</p>

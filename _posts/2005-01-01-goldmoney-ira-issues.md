@@ -1,0 +1,39 @@
+---
+layout: post
+title: GoldMoney IRA Issues
+published: true
+---
+<h1><strong>GoldMoney IRA</strong></h1>
+<p>GoldMoney IRA holdings are administrated through Entrust Administration Inc. as the custodian.  The costs do seem rather high and.  Having a custodian between you and your purchasing power may negate part of the purpose of having a GoldMoney holding in the first place.  But some people are comfortable with a GoldMoney IRA.  So, this option is available.  Here is a copy of the email one of my readers received when they enquired about the IRA option.</p>
+<p>The following files were attached:</p>
+<p><a href="http://www.runtogold.com/images/GMY%20Fee%20Schedule%20v1%204.pdf" target="_blank">GoldMoney IRA Fee Schedule</a></p>
+<p><a href="http://www.runtogold.com/images/GMY%20Fee%20Schedule%20v1%204.pdf" target="_blank"></a><a href="http://www.runtogold.com/images/Entrust%20Global%20Packet.pdf" target="_blank">Entrust Administration Form</a></p>
+<p><a href="http://www.runtogold.com/images/Entrust%20Global%20Packet.pdf" target="_blank"></a><a href="http://www.runtogold.com/images/Direct%20Rollover%20Certification.pdf" target="_blank">Entrust Rollover Certification Form</a></p>
+<p><a href="http://www.runtogold.com/images/Direct%20Rollover%20Certification.pdf" target="_blank"></a><a href="http://www.runtogold.com/images/5305-TRAD-InternationalBankandTrust.pdf" target="_blank">Form 5305-A</a></p>
+<p><a href="http://www.runtogold.com/images/5305-TRAD-InternationalBankandTrust.pdf" target="_blank"></a>All files in <a href="http://www.runtogold.com/images/EntrustGMY.zip" target="_blank">zipped</a>.</p>
+<p><strong>The email received about a GoldMoney IRA:</strong></p>
+<p><strong></strong>"Thank you for your recent inquiry. We are excited you are contemplating using your retirement funds in your next investment.   We understand that diversifying your portfolio on non-traditional investments is important to our clients.   Purchasing within your tax sheltered retirement plans can certainly be key in that process.  We hope you decide to use our firm.</p>
+<p>Entrust Administration Inc. is a third party administrator that specializes in the record keeping and tax reporting on Individual Retirement Accounts.  We can not sell or endorse any investment product, which means you, the accountholder are truly self-directing the retirement account.   As a potential client, who is interested in self-directing the account, we recommend conducting your due diligence through your private resources such as your legal, tax, and/or financial advisors to help guide you in your decision making process. You are welcome to visit our website www.TheEntrustGroup.com to review IRS regulation 4975 for information on prohibited transactions, disqualified family relationship, and self-dealing.</p>
+<p>Please find the attached documents to establish an Entrust Administration, Inc. self-directed IRA account.  For your convenience the Gold Money fee disclosure is attached separately to this email.  You will need to complete and sign both fee disclosures and return them to our office to process your request.  Please note that the Entrust Administration, Inc. fees are separate and independent of the Gold Money fee disclosure.  The original signed documents are required to be mailed to Entrust Administration, Inc.</p>
+<p>Please return the following by mail:</p>
+<p>IRA account application</p>
+<p>Entrust Administration, Inc.</p>
+<p>Fee Disclosure</p>
+<p>Transfer form with copy of current custodial IRA statement</p>
+<p>Photo ID - The ID must still have a valid date (not expired) and Gold Money requires that the photo image, the printed information and the state/federal seal information must all be visible and clear.  Acceptable US state/federal photo IDs are: a US Passport, state ID, or driver's license.</p>
+<p>Buy Direction Letter – is an Entrust internal document that clients complete for each outgoing funding to the vendor for an investment</p>
+<p>The Gold Money's fee disclosure – you must provide the signed vendor's fee disclosure. Please note that the vendor's fee schedule is separate and independent from the Entrust IRA fee disclosure.  For your convenience, the Gold Money precious metals fee disclosure is attached.</p>
+<p>Transfer and Rollover Funds:</p>
+<p>Each IRA transfer form(s) must be accompanied with a copy of your current custodian IRA statement(s).  P<span>lease complete a separate form for each IRA custodian.  Please note the client's signature is required on Part 5 and that it is the client's responsibility to contact the current custodian to liquidate assets for the transfer amount requested on this form.</span></p>
+<p>***Keep in mind that the transfer request can take 2-4 weeks depending on each of the custodians and how quick they send the funds to Entrust.***</p>
+<p>Employer plan rollover – if funds are located in a previous employer plan such as a 401k, 403B or 457plan – there are two separate documents you will complete to document the request.</p>
+<p>(1) You must contact that current plan administrator to complete their internal "Distribution/Withholding Rollover" form.  Their form may be required to process a direct rollover and you may need to provide the Entrust Administration, Inc. address and account number.   Please have the check issued payable to: Entrust Administration, Inc. FBO the client's legal name, IRA# ____ AND</p>
+<p>(2) Please complete the Entrust form entitled the "Direct Rollover Certification" form.  This form is strictly our internal form to identify that funds will arrive from an employer based retirement plan so we may code them accordingly to the IRS.</p>
+<p>Optional forms:</p>
+<p>Interested Party Designed form – If a client wishes Entrust to release any information to someone other than the IRA accountholder, the client is required to complete the appropriate section on the "Interested Party Designated/Limited Power of Attorney" form.  This form is attached and requires a medallion signature guarantee or a notary stamp in order to be valid document. Again this form is optional.</p>
+<p>Wire instructions</p>
+<p>Deposit coupon - to be completed when the client is mailing a physical check as an IRA "contribution" or a "60 rollover" check issued from another retirement plan.  The rollover check must be payable to: Entrust Administration, Inc. FBO your legal name, IRA# ____  (account number will be assigned by Entrust)</p>
+<p>Please review and keep the 5305-A IRA disclosure form attached for your records.</p>
+<p>For IRA transfers, the current custodian requires the original signed document by mail.  Entrust mails the transfer requests by USPS regular mail.  To expedite the delivery process, the client may provide a pre-labeled courier envelope with the existing IRA custodian's overnight physical mailing address (please note: overnight packages can not be delivered to a PO Box address). Keep in mind that the transfer request can take 2-4 weeks depending on each of the custodians and how quick they send the funds to Entrust.</p>
+<p>Entrust enforces a HOLD policy on funds on both wires and checks.  The check hold policy is 5 business days from the date of deposit into the account.  The hold for an incoming wire is 1 business day.  If the client wishes to have the funds wired requested through the IRA transfer form, Part 4 must be marked on this document and that a $25.00 fee will be deducted from each incoming wire.  Please note that an investment will not be funded until the hold has expired.</p>
+<p>To reiterate, it normally takes 2-4 weeks from the initial establishment of the account to receive transfer of funds or rollovers from other institutions and when they become available to utilize towards an investment.   Allow for the 2 business day Entrust review process.  Funding will take place the following business day after completed review."</p>
