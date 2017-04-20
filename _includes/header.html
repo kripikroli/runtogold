@@ -37,33 +37,31 @@
 							{% assign current = page.url | downcase | split: '/' %}
 							<li {% if current[1] == 'index.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/index.html">Home</a></li>
 							<li>
-								<a href="">About</a>
+								<a href="{{ site.baseurl }}/about">About</a>
 								<ul>
-									<li><a href="#">Contact</a></li>
-									<li><a href="#">Media</a></li>
+									<li><a href="{{ site.baseurl }}/contact">Contact</a></li>
+									<li><a href="{{ site.baseurl }}/media">Media</a></li>
 								</ul>
 							</li>
-							<li><a href="#">Blog</a></li>
-							<li><a href="#">Products</a></li>
+							<li><a href="{{ site.baseurl }}/blog">Blog</a></li>
+							<li><a href="{{ site.baseurl }}/products">Products</a></li>
 							<li>
-								<a href="">Metal Prices</a>
+								<a href="{{ site.baseurl }}/metal-prices">Metal Prices</a>
 								<ul>
-									<li><a href="#">Gold Price</a></li>
-									<li><a href="#">Silver Price</a></li>
-									<li><a href="#">Platinum Price</a></li>
-									<li><a href="#">Palladium Price</a></li>
+									<li><a href="{{ site.baseurl }}/gold-prices">Gold Price</a></li>
+									<li><a href="{{ site.baseurl }}/silver-prices">Silver Price</a></li>
+									<li><a href="{{ site.baseurl }}/platinum-prices">Platinum Price</a></li>
+									<li><a href="{{ site.baseurl }}/palladium-prices">Palladium Price</a></li>
 								</ul>
 							</li>
-							<li><a href="#">Bitcoin Price</a></li>
-							<li><a href="#">Key Ratio</a></li>
-							<li><a href="#">GoldMoney</a></li>
+							<li><a href="{{ site.baseurl }}/bitcoin-prices">Bitcoin Price</a></li>
+							<li><a href="{{ site.baseurl }}/key-ratio">Key Ratio</a></li>
+							<li><a href="{{ site.baseurl }}/goldmoney-review">GoldMoney</a></li>
 							<li>
-								<a href="">Buy</a>
+								<a href="{{ site.baseurl }}/how-to-buy-gold-or-silver">Buy</a>
 								<ul>
-									<li><a href="#">Gold</a></li>
-									<li><a href="#">Silver</a></li>
-									<li><a href="#">Platinum</a></li>
-									<li><a href="#">Palladium</a></li>
+									<li><a href="{{ site.baseurl }}/buy-gold">Gold</a></li>
+									<li><a href="{{ site.baseurl }}/buy-silver">Silver</a></li>
 								</ul>
 							</li>
 						</ul>
