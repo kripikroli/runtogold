@@ -3,7 +3,7 @@ layout: post
 title: European Bank Runs And Underestimated Physical Gold Demand
 published: true
 ---
-<p>The demand for gold is vastly underestimated. About 18 months ago I wrote about <a title="euro gold euro zone" href="http://www.runtogold.com/2010/04/euro-gold-and-the-euro-zone/" target="_blank">Euro Gold and the Euro Zone</a> and <a title="euro evaporation credit default swaps imf gold" href="http://www.runtogold.com/2010/03/credit-default-swapsimf-gold/" target="_blank">Euro Evaporation Leading To Credit Default Swaps and IMF Gold</a>. One key excerpt was:</p>
+<p>The demand for gold is vastly underestimated. About 18 months ago I wrote about <a title="euro gold euro zone" href="http://www.runtogold.com/2010/04/euro-gold-and-the-euro-zone/" target="_blank">Euro Gold and the Euro Zone</a> and <a title="euro evaporation credit default swaps imf gold" href="http://www.runtogold.com/2010/03/credit-default-swapsimf-gold/" target="_blank">Euro Evaporation Leading To Credit Default Swaps and IMF Gold</a>.<br/><br/> One key excerpt was:</p>
 <p style="padding-left: 30px;">The Euro is broken. This was its destiny. This is the destiny of all fiat currencies. These bureau-rats cannot stop this anymore than Cnut the Great could command the tide to halt.</p>
 <p>And here we are.<img src="{{ site.baseurl }}/images/051211.jpg" alt="" width="1" height="1" border="0" /></p>
 <p><strong>THE GREAT CREDIT CONTRACTION</strong></p>
