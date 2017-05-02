@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Silver Prices
+title: Silver Price And Silver Prices
 description: The Spot Silver Price Today With 200 Day Moving Average Silver Chart
 published: true
 ---
