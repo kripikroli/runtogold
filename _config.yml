@@ -2,7 +2,7 @@ name: Run To Gold
 description: Run To Gold - The leading source for monetary science applied to current events.
 paginate: 10
 baseurl: ''
-permalink: /:title
+permalink: /:title/
 
 # Use the following plug-ins
 gems:
