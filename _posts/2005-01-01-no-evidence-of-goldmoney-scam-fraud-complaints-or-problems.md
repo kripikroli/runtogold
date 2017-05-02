@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GoldMoney Scam Goldmoney Fraud Complaints Problems
+title: No Evidence Of GoldMoney Scam Goldmoney Fraud Complaints Or Problems
 published: true
 ---
 <h2><strong>NO APPARENT GOLDMONEY.COM SCAM OR GOLDMONEY FRAUD</strong></h2>
