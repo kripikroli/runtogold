@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gold Prices
+title: Gold Price And Gold Prices
 description: The Spot Gold Price Today With 200 Day Moving Average Gold Chart
 published: true
 ---
