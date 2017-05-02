@@ -6,7 +6,7 @@ published: true
 ---
 <p><strong>[pullquote]Oh, the hell with that. Just use Bitcoin, which is the currency on the Internet. - Rush Limbaugh[/pullquote]</strong>After the infographic is a collection of interviews and articles done over the years on Bitcoin along with the popular <strong>Free Bitcoin Guide</strong>:</p>
 
-<center><a href="http://www.freebitcoinguide.com"><img src="http://www.howtovanish.com/images/bitcoin-beginners-guide.jpg" /></a></center>
+<center><a href="http://www.freebitcoinguide.com"><img src="/images/bitcoin-beginners-guide.jpg" /></a></center>
 <div class="bitquote">Bitcoin, or Money Over IP, is the world’s first decentralized censorship-resistant digital crypto-currency based on cryptographic protocols.</div>
 <p><a title="potential bitcoin prices" href="http://www.runtogold.com/images/potential-bitcoin-prices.jpg" target="_blank">Click Here</a> for full-sized version.</p>
 <p style="text-align: center;"><a href="http://www.runtogold.com/images/potential-bitcoin-prices.jpg"><img class="aligncenter" src="{{ site.baseurl }}/images/potential-bitcoin-prices.jpg" alt="potential bitcoin prices" width="520" height="1609" /></a></p>
